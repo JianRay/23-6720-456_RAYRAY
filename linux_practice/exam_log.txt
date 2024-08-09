@@ -1,0 +1,113 @@
+   0 apk upgrade 
+   1 apk update 
+   2 apk install git 
+   3 apk add git 
+   4 apk add openssh 
+   5 apk add gh 
+   6 gh auth login 
+   7 cd
+   8 ls
+   9 cd
+  10 ls 
+  11 git 
+  12 cd 
+  13 ls 
+  14 cd 
+  15 exit 
+  16 cd
+  17 ls
+  18 cd
+  19 exit 
+  20 la 
+  21 ls
+  22 cd
+  23 ls
+  24 cd
+  25 exit 
+  26 git 
+  27 git init 
+  28 git clone "https://github.com/JianRay/236720_Rayray 
+  29 exit 
+  30 git clone "https://github.com/JianRay/236720_Rayray
+  31 git 
+  32 git init 
+  33 ls
+  34 cd
+  35 git clone "https://github.com/JianRay/236720_Rayray.git 
+  36 git 
+  37 git init 
+  38 git clone "https://github.com/JianRay/236720_Rayray
+  39 ls
+  40 cd
+  41 exit 
+  42 git clone "https://github.com/JianRay/236720_Rayray"
+  43 la
+  44 ls
+  45 ce 
+  46 cd
+  47 cd 236720_Rayray
+  48 history -c 
+  49 mkdir linux_practice 
+  50 mv linux_practice 
+  51 cd linux_practice 
+  52 dp notes.txt
+  53 touch notes.txt
+  54 append notes.txt
+  55 echo notes.txt
+  56 echo "Hello linux!" notes.txt
+  57 touch notes.txt
+  58 cat notes.txt
+  59 dp "This is a practical exam" notes.txt
+  60 echo "This is a practical exam" notes.txt 
+  61 head notes.txt
+  62 tail notes.txt
+  63 ls
+  64 cd
+  65 cd 236720_Rayray 
+  66 cd linux_practice 
+  67 cd subdir 
+  68 cd subdir
+  69 mkdir subdir 
+  70 cd subdir
+  71 mv notes.txt
+  72 mv src source practice_subdir
+  73 mv -v subdir practice_subdir
+  74 cp notes.txt linux_practice
+  75 cp notes.txt_copy.txt
+  76 gh repo clone "https://github.com/JianRay/236720_Rayray" 
+  77 apk add gh 
+  78 gh auth login 
+  79 git -cli 
+  80 gh auth login 
+  81 apk add gh 
+  82 gh auth login 
+  83 ls
+  84 cd
+  85 ls
+  86 git push 
+  87 exit 
+  88 cd 
+  89 la
+  90 ls
+  91 cd 236720_Rayray
+  92 history -c
+  93 mkdir linux_practice 
+  94 cd linux_practice 
+  95 touch note.txt 
+  96 ls
+  97 cat notes.txt 
+  98 echo "Hello, linux!" > notes.txt 
+  99 echo "This is a practical exam." >> notes.txt 
+ 100 head -n 1 notes.txt 
+ 101 tail -n 1 notes.txt
+ 102 mkdir subdir 
+ 103 mv notes.txt subdir/
+ 104 mv subdir practice_subdir 
+ 105 cp practice_subdir/notes.txt . 
+ 106 date
+ 107 uptime 
+ 108 df -h ~
+ 109 git --version 
+ 110 gh --version 
+ 111 git checkout -b finalexam
+ 112 history > exam_log.txt 
